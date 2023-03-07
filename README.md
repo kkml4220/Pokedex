@@ -2,7 +2,7 @@
 
 ## Demo
 
-![[https://kkml4220.github.io/Pokedex/](https://kkml4220.github.io/Pokedex/)](https://user-images.githubusercontent.com/58053010/223297825-70860880-b76b-4a12-a949-1f9bc9877b43.gif)
+![demo](https://user-images.githubusercontent.com/58053010/223297825-70860880-b76b-4a12-a949-1f9bc9877b43.gif)
 
 ## URL
 
