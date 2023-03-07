@@ -2,11 +2,15 @@
 
 ## Demo
 
-![[link](https://kkml4220.github.io/Pokedex/)](https://user-images.githubusercontent.com/58053010/223295876-bc1feba7-f46f-4428-b5c4-dbef423577fa.mov)
+![[link](https://user-images.githubusercontent.com/58053010/223297825-70860880-b76b-4a12-a949-1f9bc9877b43.gif)
+
+## URL
+
+[https://kkml4220.github.io/Pokedex/](https://kkml4220.github.io/Pokedex/)
 
 ## Author
 
-- 作成者 : 高橋 克征 (Takahashi Katsuyuki)
+- Author : Takahashi Katsuyuki
 - E-mail : [Takahashi.Katsuyuki.github@gmail.com](Takahashi.Katsuyuki.github@gmail.com)
 
 ## License
